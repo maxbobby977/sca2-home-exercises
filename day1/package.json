@@ -1,0 +1,17 @@
+{
+  "name": "sca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "practice.js",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "number-to-words": "^1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
